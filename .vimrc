@@ -25,7 +25,6 @@ set hlsearch
 set incsearch
 set ignorecase
 set smartcase
-set spell spelllang=en_us
 set autochdir
 set noerrorbells
 set history=1000
